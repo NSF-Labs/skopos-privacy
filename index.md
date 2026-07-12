@@ -1,11 +1,5 @@
 # Skopos — Privacy Policy
 
-**Prepared:** 2026-07-11 · For app `com.nsfstudios.skopos` (Skopos 0.3.8+117)
-**Publisher:** NSF Studios (legal entity: NSF Labs LLC, Sarasota, FL)
-
-## Privacy Policy for Skopos
-
-**Effective date:** July 1 2026
 **Developer:** NSF Studios (NSF Labs LLC), Sarasota, Florida, USA
 **Contact:** contact@nsflabs.org
 
